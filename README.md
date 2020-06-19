@@ -1,2 +1,4 @@
 # zabbix-agent-ansible
-Instalação do agent zabbix com ansible
+Playbook para instalação do zabbix-agent com ansible
+
+
